@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aruani4 but my name is Augusto. I`m half argentinian half italian
 - 👀 I’m interested in front-end develop
 - 🌱 I’m currently learning html; css; javascript
-- 💞️ I’m looking to collaborate on front end proyects adn if is it possible learnin from jr and seniors developers 
+- 💞️ I’m looking to collaborate on front end proyects and if it is possible learnin from jr and seniors developers 
 - 📫 you can reach me to aruani51@gmail.com
 
 
